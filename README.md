@@ -1,5 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Stasya+365+API)](https://git.io/typing-svg)
 Интеграция сервисов Stasya365 в ваш код python
+
+![](https://komarev.com/ghpvc/?username=vorobjewsen30-max)
+
 # Использование
 
 - [X] Легко использовать

@@ -62,7 +62,8 @@ while True:
 
 
 ```
-![Изображение](https://lh3.googleusercontent.com/pw/AP1GczNsntZI7ENdTfUh3FO394oHzTzqLXa85xYRdVle6hXXQrKKgU1itSF6EipckZIezlUBQCy83c5DvvZBWi4N-1EWSZLrD4j_ZB0321H2CKh5I_sMxNFjv7tG1B07Vdt8Swaq7TSPhHidHDyME_b3Tj77=w1264-h241-s-no-gm?authuser=0)
+# Результат
+![Изображение](https://lh3.googleusercontent.com/pw/AP1GczOhneCGvjaeP79Se7-3s8bAPPAjQycC4spiENuBrYKspEMMASzN1NXy7TWf9ilmmu95Jr-t_g7rUxmWvUC689mK78_R8Y7PK5VVKyNYfUqXgEyY0iIH6HqeEBeaBAmMK-xsHV2ssVlMyfFwCZgP4ko8=w1262-h261-s-no-gm?authuser=0)
 |Применение|Функции|Языки|
 |:-|:-:|-:|
 |Широкое|Регистрация, оплата, счёт по математике и др. |Python|

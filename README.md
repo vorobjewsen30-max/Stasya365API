@@ -68,6 +68,6 @@ while True:
 |:-|:-:|-:|
 |Широкое|Регистрация, оплата, счёт по математике и др. |Python|
 ## На видео
-<a href="{https://youtu.be/li7LLf7EJL0}" title="На видео">
+[![(285) Video API - YouTube](https://i.ytimg.com/vi/li7LLf7EJL0/hqdefault.jpg)](https://www.youtube.com/watch?v=li7LLf7EJL0 "(285) Video API - YouTube")
 
 [Скачать бесплатно.](https://github.com/vorobjewsen30-max/Stasya365API/releases/download/1.0.0/Stasya365_API.py) Быстро, без регистрации

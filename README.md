@@ -67,6 +67,7 @@ while True:
 |Применение|Функции|Языки|
 |:-|:-:|-:|
 |Широкое|Регистрация, оплата, счёт по математике и др. |Python|
-
+## На видео
+<a href="{https://youtu.be/li7LLf7EJL0}" title="На видео">
 
 [Скачать бесплатно.](https://github.com/vorobjewsen30-max/Stasya365API/releases/download/1.0.0/Stasya365_API.py) Быстро, без регистрации

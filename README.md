@@ -62,7 +62,7 @@ while True:
 
 
 ```
-
+![Изображение](https://lh3.googleusercontent.com/pw/AP1GczNsntZI7ENdTfUh3FO394oHzTzqLXa85xYRdVle6hXXQrKKgU1itSF6EipckZIezlUBQCy83c5DvvZBWi4N-1EWSZLrD4j_ZB0321H2CKh5I_sMxNFjv7tG1B07Vdt8Swaq7TSPhHidHDyME_b3Tj77=w1264-h241-s-no-gm?authuser=0)
 |Применение|Функции|Языки|
 |:-|:-:|-:|
 |Широкое|Регистрация, оплата, счёт по математике и др. |Python|
